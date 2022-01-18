@@ -2002,6 +2002,11 @@ chardet@^0.7.0:
   resolved "http://192.168.31.232:4873/chardet/-/chardet-0.7.0.tgz#90094849f0937f2eedc2425d0d28a9e5f0cbad9e"
   integrity sha1-kAlISfCTfy7twkJdDSip5fDLrZ4=
 
+child_process@^1.0.2:
+  version "1.0.2"
+  resolved "http://192.168.31.232:4873/child_process/-/child_process-1.0.2.tgz#b1f7e7fc73d25e7fd1d455adc94e143830182b5a"
+  integrity sha1-sffn/HPSXn/R1FWtyU4UODAYK1o=
+
 chokidar@^3.0.0:
   version "3.5.2"
   resolved "http://192.168.31.232:4873/chokidar/-/chokidar-3.5.2.tgz#dba3976fcadb016f66fd365021d91600d01c1e75"
@@ -4201,6 +4206,11 @@ http-proxy-agent@^4.0.0, http-proxy-agent@^4.0.1:
     "@tootallnate/once" "1"
     agent-base "6"
     debug "4"
+
+http@^0.0.1-security:
+  version "0.0.1-security"
+  resolved "http://192.168.31.232:4873/http/-/http-0.0.1-security.tgz#3aac09129d12dc2747bbce4157afde20ad1f7995"
+  integrity sha1-OqwJEp0S3CdHu85BV6/eIK0feZU=
 
 https-proxy-agent@5, https-proxy-agent@^5.0.0:
   version "5.0.0"
