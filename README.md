@@ -1,0 +1,2 @@
+# yyddrc
+yyddrc public
