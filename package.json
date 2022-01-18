@@ -1,0 +1,25 @@
+{
+  "name": "yyddrc",
+  "version": "1.0.0",
+  "description": "yyddrc public",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canvita/yyddrc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canvita/yyddrc/issues"
+  },
+  "homepage": "https://github.com/canvita/yyddrc#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.13.4"
+  }
+}
